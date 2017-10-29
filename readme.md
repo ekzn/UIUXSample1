@@ -12,7 +12,9 @@ Or
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 `brew install node`
+
 `brew install watchman`
+
 Download and install Xcode for running app on iOS
 
 ## The React Native CLI
@@ -21,12 +23,17 @@ Download and install Xcode for running app on iOS
 ### Running the APP on iPhone
 
 `cd UIUXSample1`
+
 Install npm dependencies
+
 `npm install`
 
 Running on iOS simulator
+
 `react-native run-ios`
+
 If `node_modules` have some read permission below command before Running app on iOS simulator
+
 `chmod -R 777 node_modules`
 
 There is one simple test for main screen.
