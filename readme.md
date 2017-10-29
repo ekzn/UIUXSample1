@@ -1,12 +1,6 @@
 # React Native App
 This is sample app of using `react-native-floating-label-text-image-input`
 
-# Icon Used from Icon8
-https://icons8.com/
-https://icons8.com/icon/1669/email
-https://icons8.com/icon/2844/password
-
-
 ### Setup dependencies
 
 - Install [Node.js](https://nodejs.org) LTS 6.10.0
@@ -38,5 +32,19 @@ If `node_modules` have some read permission below command before Running app on 
 There is one simple test for main screen.
 `npm run test`
 
-ToDO:
-Running on Android
+ToDo's:
+# [checkbox:unchecked] Running on Android
+
+
+## Icon Used from Icon8
+https://icons8.com/
+
+https://icons8.com/icon/1669/email
+
+https://icons8.com/icon/2844/password
+
+# Demo
+
+<p align="center">
+    <img src ="https://github.com/erumawan/UIUXSample1/blob/master/ScreenShots/Demo.gif" />
+</p>
