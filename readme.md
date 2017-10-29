@@ -39,8 +39,8 @@ If `node_modules` have some read permission below command before Running app on 
 There is one simple test for main screen.
 `npm run test`
 
-ToDo's:
-# [checkbox:unchecked] Running on Android
+### ToDo's:
+- [ ] Test on Android
 
 
 ## Icon Used from Icon8
