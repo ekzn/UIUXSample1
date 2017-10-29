@@ -42,3 +42,9 @@ https://icons8.com/
 https://icons8.com/icon/1669/email
 
 https://icons8.com/icon/2844/password
+
+# Demo
+
+<p align="center">
+    <img src ="https://github.com/erumawan/UIUXSample1/blob/master/ScreenShots/Demo.gif" />
+</p>
