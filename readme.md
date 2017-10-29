@@ -3,7 +3,9 @@ This is sample app of using `react-native-floating-label-text-image-input`
 
 # Icon Used from Icon8
 https://icons8.com/
+
 https://icons8.com/icon/1669/email
+
 https://icons8.com/icon/2844/password
 
 
