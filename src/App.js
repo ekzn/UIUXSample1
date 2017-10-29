@@ -14,7 +14,7 @@ import {
 	TouchableOpacity,
 	ImageBackground
 } from 'react-native';
-import FloatLabelTextInput from 'react-native-floating-label-text-input';
+import FancyTextField from 'react-native-floating-label-text-image-input';
 
 export default class App extends Component<{}> {
 	static navigationOptions = { header: null };
@@ -42,7 +42,7 @@ export default class App extends Component<{}> {
 						{'\n'}
 						{'\n'}
 					</Text>
-					<FloatLabelTextInput
+					<FancyTextField
 						placeholderIcon={require('./images/icon_email.png')}
 						placeholder={'Email'}
 						value={''}
@@ -50,7 +50,7 @@ export default class App extends Component<{}> {
 							console.log(text);
 						}}
 					/>
-					<FloatLabelTextInput
+					<FancyTextField
 						placeholderIcon={require('./images/icon_password.png')}
 						placeholder={'Password'}
 						secureTextEntry={true}
